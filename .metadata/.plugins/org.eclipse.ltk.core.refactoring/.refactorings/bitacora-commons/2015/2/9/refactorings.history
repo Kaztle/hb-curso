@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;bitacora-commons/src/main/resources/mx/habil/curso/commons/xml/commons.application.context&apos; to &apos;commons.application.context.xml&apos;" description="Rename resource &apos;commons.application.context&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/mx/habil/curso/commons/xml/commons.application.context" name="commons.application.context.xml" stamp="1425147675258" updateReferences="true"/>
+</session>

@@ -8,6 +8,7 @@
   	<module>bitacora-commons</module>
   	<module>bitacora-model</module>
   	<module>bitacora-business</module>
+  	<module>bitacora-test</module>
   </modules>
   <properties>
     <jdk.version>1.7</jdk.version>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="habil"/>
+<aop-project name="hb-curso-model"/>
+<aop-project name="hb-curso-test"/>
 </aop-reference-model>
